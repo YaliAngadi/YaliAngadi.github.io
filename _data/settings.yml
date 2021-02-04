@@ -1,0 +1,25 @@
+# Change 'comments' to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'Yaliangadi-3'
+
+# If you are not using Google Analytics, please change 'google-ID' to an empty string
+google-ID: ''
+
+menu:
+- {name: 'Our Mission', folder: 'pages', file: 'mission.html'}
+- {name: 'What we do', folder: 'pages', file: 'whatwedo.html'}
+- {name: 'About', folder: 'pages', file: 'about.html'}
+- {name: 'Contact', folder: 'pages', file: 'contact.html'}
+
+
+# Customize site text
+pagination:
+  next_page: 'Newer'
+  previous_page: 'Older'
+
+sharing_button_prompt: 'Feel free to share!'
+
+related_posts: 'You may also enjoy...'
+
+post_date_prefix: 'Written on'
