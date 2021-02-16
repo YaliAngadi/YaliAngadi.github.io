@@ -4,7 +4,7 @@ title: "Welcome to Yaliangadi!"
 author: "Yaliangadi"
 categories: documentation
 tags: [documentation,sample]
-image: sa-min.jpg
+image: yali.png
 ---
 
 Your Home Page Content Goes here
